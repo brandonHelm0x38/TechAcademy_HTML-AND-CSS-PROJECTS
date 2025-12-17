@@ -1,0 +1,10 @@
+/* Ordered Lists Styling */
+ol {
+	list-style-type: upper-roman;
+}
+
+/* Un-ordered Lists Styling */
+ul {
+	list-style-type: square;
+}
+

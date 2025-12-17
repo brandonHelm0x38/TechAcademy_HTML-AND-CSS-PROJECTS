@@ -1,0 +1,22 @@
+/* Add silver border around all tables */
+table {
+	border: 1px solid silver;
+}
+
+/* Add a hover effect */
+td:hover {
+	background-color: yellow;
+	color: black;
+}
+
+/* Make the top/header row of column names have the following styling */
+tr, th {
+	background-color: black;
+	color: cornsilk;
+}
+
+/* Make the remaining rows in the table have the following styling */
+tr, td {
+	background-color: darkgreen;
+	color: white;
+}
